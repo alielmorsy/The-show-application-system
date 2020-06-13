@@ -1,5 +1,4 @@
 # The-show-application-system
-ReadME file
-here you will find erd full image because it not good in research
-full database in sql file
-sql file has requirments
+Readme file
+a mysql project for database research paper
+`Note: orginal ERD image because it not good in research`
